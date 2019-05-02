@@ -1,4 +1,4 @@
-    <web-app>  
+    <pom-app>  
       
     <servlet>  
     <servlet-name>regainHomePage</servlet-name>  
@@ -10,4 +10,4 @@
     <url-pattern>/welcome</url-pattern>  
     </servlet-mapping>  
       
-    </web-app>  
+    </pom-app>  
