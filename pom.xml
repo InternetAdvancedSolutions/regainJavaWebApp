@@ -1,0 +1,13 @@
+    <web-app>  
+      
+    <servlet>  
+    <servlet-name>regainHomePage</servlet-name>  
+    <servlet-class>Servlet</servlet-class>  
+    </servlet>  
+      
+    <servlet-mapping>  
+    <servlet-name>regainHomePage</servlet-name>  
+    <url-pattern>/welcome</url-pattern>  
+    </servlet-mapping>  
+      
+    </web-app>  
